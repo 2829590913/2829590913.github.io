@@ -376,28 +376,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/Categories/index.html"/>
-      <url>/Categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>关于</title>
-      <link href="/About/index.html"/>
-      <url>/About/index.html</url>
-      
-        <content type="html"><![CDATA[<link href="https://cdn.staticaly.com/gh/2829590913/cdn@master/css/botui-theme-default.css" rel="stylesheet"><link href="https://cdn.staticaly.com/gh/2829590913/cdn@master/css/botui.min.css" rel="stylesheet"><div class="entry-content">  <div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">jsonの小破站</div>  <div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgb(36, 200, 255); border-radius: 10px;">    <center>    <p>    </p>    <h4>    与&nbsp;<ruby>    json&nbsp;<rp>    （</rp>    <rt>    真（ま）实（しろ）</rt>    <rp>    ）</rp>    </ruby>    对话中...</h4>    <p>    </p>    </center>    <bot-ui></botui>  </div></div><script src="https://cdn.staticaly.com/gh/2829590913/cdn@master/js/botui.js"></script><script>bot_ui_ini()</script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/botui.min.css"/>
       <url>/css/botui.min.css</url>
@@ -489,6 +467,28 @@
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<link href="https://cdn.staticaly.com/gh/2829590913/cdn@master/css/botui-theme-default.css" rel="stylesheet"><link href="https://cdn.staticaly.com/gh/2829590913/cdn@master/css/botui.min.css" rel="stylesheet"><div class="entry-content">  <div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">jsonの小破站</div>  <div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgb(36, 200, 255); border-radius: 10px;">    <center>    <p>    </p>    <h4>    与&nbsp;<ruby>    json&nbsp;<rp>    （</rp>    <rt>    真（ま）实（しろ）</rt>    <rp>    ）</rp>    </ruby>    对话中...</h4>    <p>    </p>    </center>    <bot-ui></botui>  </div></div><script src="https://cdn.staticaly.com/gh/2829590913/cdn@master/js/botui.js"></script><script>bot_ui_ini()</script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
